@@ -1,2 +1,2 @@
 
-This file contains the timer function
+This file contains the Result Calculation BUg
