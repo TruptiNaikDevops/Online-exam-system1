@@ -1,1 +1,2 @@
-testing integration with github with Online Exam System repository
+
+This file contains the timer function
